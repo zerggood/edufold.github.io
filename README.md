@@ -1,1 +1,1 @@
-# edufold.github.io
+# Edufold website
